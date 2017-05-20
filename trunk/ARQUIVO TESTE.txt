@@ -1,1 +1,2 @@
 Arquivo ARTERADO para teste de UPDATE no servidor do Git Hub
+Linha que irá conflitar com o que já temos no repositório local do Git

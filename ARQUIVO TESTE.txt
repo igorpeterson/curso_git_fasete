@@ -1,1 +1,2 @@
 Arquivo ARTERADO para teste de UPDATE no servidor do Git Hub
+Linha 2 do arquivo teste
